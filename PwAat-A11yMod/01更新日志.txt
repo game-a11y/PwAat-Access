@@ -1,0 +1,19 @@
+# 更新日志
+
++ v20250801+2350: 使用 Tolk 的测试版。
+    + 删除 SpeakerTTS.exe 及相关输出逻辑，改用 Tolk 输出。
+    + 文本输出默认不打断。删除 
+    + 等待按键页面 [Press Enter] 添加输出
+    + 加载中页面输出
+    + 菜单次级页面输出
+    + 调整 MOD 文件夹配置。大部分文件放在根目录中。
+    + 配置文件 "ModConfig.ini" 和 "name.csv" 移动到根目录中。
+    + 配置文件重命名："ModConfig.ini" => "A11yModConfig.ini"; "name.csv" => "A11yModNames.csv"
+    + 配置文件改用 UTF-8 编码。原来为 UTF-16 编码。
+    + 增加了调试用的控制台输出，按 F2 弹出。需要配合 BepInEx 才能捕获所有 unity 输出。
++ v20250509: MOD 原始版本。使用 "SpeakerTTS.exe"
+    压缩包信息
+    Name: Phoenix Wright： Ace Attorney Trilogy Accessibility Mod.zip
+    Size: 1966605 bytes : 1920 KiB
+    MD5: f568fea023aa2daee920bfb06ba45942
+    SHA256: 7d7f027071ede60f05506acc4519d90c43b0fff6b3097168e9577f08e919b8cb

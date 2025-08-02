@@ -1,0 +1,13 @@
+# 逆转裁判 123 无障碍 MOD
+
+版本 v20250801+2350     使用 Tolk 的测试版
+原作者：DONOKO @ Bilibili
+新版本作者：inkydragon @ Bilibili/Github
+
+
+## 安装说明
+
+从 Steam 打开游戏根目录，在根目录中你可以看见 "PWAAT.exe"。
+解压无障碍 mod，将所有文件复制到游戏根目录中。即 "Tolk.dll" 和 "PWAAT.exe" 应该在同一个目录中。
+复制时，会提示是否覆盖 "Assembly-CSharp.dll" 选择是。
+此 mod 直接修改了游戏本体的文件，注意备份。

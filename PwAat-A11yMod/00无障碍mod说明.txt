@@ -1,6 +1,6 @@
 # 逆转裁判 123 无障碍 MOD
 
-版本 v20250801+2350     使用 Tolk 的测试版
+版本 v20250811+0800  修复一堆 BUG
 原作者：DONOKO @ Bilibili
 新版本作者：inkydragon @ Bilibili/Github
 

@@ -12,4 +12,5 @@ PwAat-Access Mod release repo
 
 ## License
 
-补丁文件使用 MIT 协议。
+本仓库中的文件使用 MIT 协议。  
+发布的二进制包保留所有权利。
